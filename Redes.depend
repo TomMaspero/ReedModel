@@ -1,0 +1,415 @@
+# depslib dependency file v1.0
+1621145454 source:c:\users\tdmal\onedrive\desktop\pasantía\eden 1.0\glut.c
+	"glut.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\pasantía\eden 1.0\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1426360528 c:\mingw\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426360528 c:\mingw\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426360528 c:\mingw\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1621145903 source:c:\users\tdmal\onedrive\desktop\pasantía\eden 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"glut.h"
+
+1621145454 source:c:\users\tdmal\onedrive\desktop\pasantía\eden piso\glut.c
+	"glut.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\pasantía\eden piso\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1621528538 source:c:\users\tdmal\onedrive\desktop\pasantía\eden piso\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"glut.h"
+
+1621145454 source:c:\users\tdmal\onedrive\desktop\pasantía\eden piso 2\glut.c
+	"glut.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\pasantía\eden piso 2\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1621536896 source:c:\users\tdmal\onedrive\desktop\pasantía\eden piso 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"glut.h"
+
+1623181982 source:c:\users\tdmal\onedrive\desktop\eden piso 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1623182014 source:c:\users\tdmal\onedrive\desktop\eden piso 2\glut.c
+	"glut.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\eden piso 2\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1623295071 source:c:\users\tdmal\onedrive\desktop\planetas\glut.c
+	"glut.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\planetas\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1623293315 source:c:\users\tdmal\onedrive\desktop\planetas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"vector.h"
+
+1623293372 c:\users\tdmal\onedrive\desktop\planetas\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1623358744 source:c:\users\tdmal\onedrive\desktop\pasantía\planetas\glut.c
+	"glut.h"
+	"vector.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\pasantía\planetas\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1623388072 source:c:\users\tdmal\onedrive\desktop\pasantía\planetas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"vector.h"
+
+1623356389 c:\users\tdmal\onedrive\desktop\pasantía\planetas\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1623356119 source:c:\users\tdmal\onedrive\desktop\pasantía\planetas\vector.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"vector.h"
+
+1623790506 source:c:\users\tdmal\onedrive\desktop\vicsek\glut.c
+	"glut.h"
+	"vector.h"
+	"math.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\vicsek\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1623788811 c:\users\tdmal\onedrive\desktop\vicsek\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1623356119 source:c:\users\tdmal\onedrive\desktop\vicsek\vector.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"vector.h"
+
+1623812486 source:c:\users\tdmal\onedrive\desktop\vicsek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"vector.h"
+
+1623818907 source:c:\users\tdmal\onedrive\desktop\vicsek 2\glut.c
+	"glut.h"
+	"vector.h"
+	"math.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\vicsek 2\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1623788811 c:\users\tdmal\onedrive\desktop\vicsek 2\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1623820334 source:c:\users\tdmal\onedrive\desktop\vicsek 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"vector.h"
+
+1623356119 source:c:\users\tdmal\onedrive\desktop\vicsek 2\vector.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"vector.h"
+
+1624385547 source:c:\users\tdmal\onedrive\desktop\pasantía\vicsek\glut.c
+	"glut.h"
+	"vector.h"
+	"math.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\pasantía\vicsek\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1623962189 c:\users\tdmal\onedrive\desktop\pasantía\vicsek\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1624940090 source:c:\users\tdmal\onedrive\desktop\pasantía\vicsek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"vector.h"
+	"funh.h"
+	"glut.h"
+
+1623356119 source:c:\users\tdmal\onedrive\desktop\pasantía\vicsek\vector.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"vector.h"
+
+1624937972 c:\users\tdmal\onedrive\desktop\pasantía\vicsek\funh.h
+	"vector.h"
+
+1624940783 source:c:\users\tdmal\onedrive\desktop\pasantía\vicsek\funh.c
+	"funh.h"
+	"vector.h"
+
+1624385547 source:c:\users\tdmal\onedrive\desktop\pasantía\redes\glut.c
+	"glut.h"
+	"vector.h"
+	"math.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\pasantía\redes\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1625456272 c:\users\tdmal\onedrive\desktop\pasantía\redes\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1625154284 source:c:\users\tdmal\onedrive\desktop\pasantía\redes\vector.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"vector.h"
+
+1626379051 source:c:\users\tdmal\onedrive\desktop\pasantía\redes\red.c
+	<stdio.h>
+	<stdlib.h>
+	"red.h"
+	"vector.h"
+
+1626378948 c:\users\tdmal\onedrive\desktop\pasantía\redes\red.h
+	"vector.h"
+
+1626379039 source:c:\users\tdmal\onedrive\desktop\pasantía\redes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"vector.h"
+	"red.h"
+	"glut.h"
+
+1632892766 source:d:\pasantía\redes\red.c
+	<stdio.h>
+	<stdlib.h>
+	"red.h"
+	"vector.h"
+
+1633492928 d:\pasantía\redes\red.h
+	"vector.h"
+
+1625456272 d:\pasantía\redes\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1625154284 source:d:\pasantía\redes\vector.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"vector.h"
+
+1633492822 source:d:\pasantía\redes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"vector.h"
+	"red.h"
+
+1620159713 d:\pasantía\redes\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1625154284 source:c:\users\tdmal\onedrive\desktop\redes\vector.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"vector.h"
+
+1625456272 c:\users\tdmal\onedrive\desktop\redes\vector.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1631724428 source:c:\users\tdmal\onedrive\desktop\redes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"vector.h"
+	"red.h"
+	"glut.h"
+
+1631719451 c:\users\tdmal\onedrive\desktop\redes\red.h
+	"vector.h"
+
+1620159713 c:\users\tdmal\onedrive\desktop\redes\glut.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"OpenGL/gl.h"
+	"OpenGL/glu.h"
+	<GLUT/glut.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<GL/freeglut.h>
+
+1631720560 source:c:\users\tdmal\onedrive\desktop\redes\red.c
+	<stdio.h>
+	<stdlib.h>
+	"red.h"
+	"vector.h"
+
