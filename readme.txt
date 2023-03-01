@@ -1,10 +1,15 @@
+Algoritmo que aplica el Modelo de Reed-Frost a una red. 
+https://en.wikipedia.org/wiki/Reed%E2%80%93Frost_model
+
+Comienza creando una red compleja a partir de ciertos parámetros elegidos dentro del .bat de antemano. 
 !!! Este programa se ejecuta desde el run.bat dentro de bin\Debug\run.bat!!!
 ---Esta es la version de W general, tambien esta la version de W dependiente de cada vecino---
 
 Con el bat, el programa se ejecuta 10 veces, en cada ejecucion se crea una red y esta, a su vez se utiliza 10 veces (dependiendo del n_steps) para desarrollar una nueva infeccion. 
 ---Luego hay que usar el programa de "Redes promedio" para promediar los datos finales---
 
-Comienza creando una red compleja a partir de ciertos parámetros elegidos dentro del .bat de antemano. 
+
+Variables en el .bat:
 max_vecinos y min_vecinos: numero maximo/minimo de vecinos que puede llegar a tener un nodo.
 n_nodos: numero total de nodos a generar
 beta: probabilidad de contagiar, cada vez que un nodo intenta contagiar a otro se rolea una probabilidad p. Si p es mayor que beta entonces el nodo se contagia
